@@ -15,18 +15,18 @@ The rendering process within a compute node in a render farm involves several st
    - **Render Settings**: Render settings specified in the task (e.g., resolution, frame rate, render passes) are configured.
    - **Camera Setup**: Camera parameters (position, orientation, lens settings) are set based on the task requirements.
 
-4. **[Rendering Execution](/Studio-in-the-Cloud/**Rendering Execution)**:
+4. **[Rendering Execution](/Studio-in-the-Cloud/Rendering Execution)**:
    - **Ray Tracing or Rasterization**: Depending on the rendering technique (ray tracing, rasterization), the node calculates the color and shading of pixels in the scene.
    - **Lighting Calculations**: Lighting models are applied, including direct and indirect lighting (global illumination).
    - **Material Rendering**: Each surface is shaded according to its material properties (diffuse, specular, transparency).
    - **Effects Computation**: Special effects such as reflections, refractions, and ambient occlusion are computed as per scene requirements.
    - **Post-Processing**: Final image adjustments like color correction, depth of field, and motion blur are applied if specified.
 
-5. **[Frame Output](/Studio-in-the-Cloud/**Frame Output)**:
+5. **[Frame Output](/Studio-in-the-Cloud/Frame Output)**:
    - **Image Composition**: Once all pixels are processed, the node compiles them into a final rendered frame or tile.
    - **Output Format**: The rendered output is formatted according to the specified file format (e.g., PNG, JPEG, EXR).
 
-6. **[Result Submission](/Studio-in-the-Cloud/**Result Submission)**:
+6. **[Result Submission](/Studio-in-the-Cloud/Result Submission)**:
    - **Task Completion**: The node marks the rendering task as completed.
    - **Result Upload**: The rendered frame or tile is uploaded to the shared storage or directly sent to the render farm management software.
 
