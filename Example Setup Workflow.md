@@ -15,4 +15,4 @@
 14. Using the user management tools, Create organizational hierarchy of users and map users to the file system for access
 15. Create users for artists, update password policies and enable login
 16. Create a launch template saving all the configurations into an easily repeatable action
-	![[IMG_0356.jpeg]]
+![IMG_0356.jpeg](/Studio-in-the-Cloud/IMG_0356.jpeg)
