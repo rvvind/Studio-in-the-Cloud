@@ -10,6 +10,7 @@ Achieve principles of Movielabs 2030 vision
 8. Individual media elements are tracked using a universal linking system - the hierarchy of media elements are represented simply (e.g.: REST)
 9. Media workflows are non-destructive and dynamic with common interfaces, data formats
 10. Workflows are designed around real-time iteration and feedback
+
 ### Why?
 * Global workforce can now work remotely
 * On-prem infrastructure has a fixed scale, while cloud makes scaling elastic
