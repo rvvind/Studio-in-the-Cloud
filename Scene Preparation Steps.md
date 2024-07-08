@@ -46,10 +46,10 @@ graph TD;
     J --> J1[Render Instructions];
     J --> J2[Scene Information];
     J1 --> K[Final Review];
-    J2 --> K
-    K --> K1[Quality Check]
-    K --> K2[Approval]
-    K1 --> L[End: Ready for Rendering]
+    J2 --> K;
+    K --> K1[Quality Check];
+    K --> K2[Approval];
+    K1 --> L[End: Ready for Rendering];
     K2 --> L;
 ```
 1. **Asset Organization**:
