@@ -6,7 +6,7 @@ The rendering process within a compute node in a render farm involves several st
    - **Task Assignment**: The render farm management software assigns a specific rendering task to the node.
    - **Task Retrieval**: The node retrieves the task package from the shared storage or network location where tasks are stored.
 
-2. **[[Scene Preparation Steps|Scene Preparation]]:**
+2. **[Scene Preparation](/Studio-in-the-Cloud/Scene Preparation Steps):**
    - **Scene Loading**: The node loads the scene data associated with the rendering task.
    - **Asset Loading**: All necessary assets (textures, models, shaders) are loaded into memory.
    - **Pre-processing**: Geometry is prepared for rendering, and any pre-computed data (like lightmaps) are loaded.
