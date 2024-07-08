@@ -36,7 +36,7 @@ Achieve principles of Movielabs 2030 vision
 
 ### Deep Dive
 1. [Render Farm](/Studio-in-the-Cloud/Distributed Rendering)
-2. [[Example Setup Workflow|Example Workflow]]
+2. [Example Workflow](/Studio-in-the-Cloud/Example Setup Workflow)
 
 ### Services involved
 1. Compute instances, Machine images
