@@ -2,7 +2,7 @@ The rendering process within a compute node in a render farm involves several st
 
 ### Rendering Process Within a Node
 
-1. **[Task Initialization](Studio-in-the-Cloud/Task Initialization)**:
+1. **[Task Initialization](Task Initialization)**:
    - **Task Assignment**: The render farm management software assigns a specific rendering task to the node.
    - **Task Retrieval**: The node retrieves the task package from the shared storage or network location where tasks are stored.
 
