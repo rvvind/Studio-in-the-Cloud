@@ -2,7 +2,7 @@ The rendering process within a compute node in a render farm involves several st
 
 ### Rendering Process Within a Node
 
-1. **Task Initialization**:
+1. **[Task Initialization](Studio-in-the-Cloud/Task Initialization)**:
    - **Task Assignment**: The render farm management software assigns a specific rendering task to the node.
    - **Task Retrieval**: The node retrieves the task package from the shared storage or network location where tasks are stored.
 
@@ -11,26 +11,26 @@ The rendering process within a compute node in a render farm involves several st
    - **Asset Loading**: All necessary assets (textures, models, shaders) are loaded into memory.
    - **Pre-processing**: Geometry is prepared for rendering, and any pre-computed data (like lightmaps) are loaded.
 
-3. **Rendering Setup**:
+3. **[Rendering Setup](/Studio-in-the-Cloud/Rendering Setup)**:
    - **Render Settings**: Render settings specified in the task (e.g., resolution, frame rate, render passes) are configured.
    - **Camera Setup**: Camera parameters (position, orientation, lens settings) are set based on the task requirements.
 
-4. **Rendering Execution**:
+4. **[Rendering Execution](/Studio-in-the-Cloud/**Rendering Execution)**:
    - **Ray Tracing or Rasterization**: Depending on the rendering technique (ray tracing, rasterization), the node calculates the color and shading of pixels in the scene.
    - **Lighting Calculations**: Lighting models are applied, including direct and indirect lighting (global illumination).
    - **Material Rendering**: Each surface is shaded according to its material properties (diffuse, specular, transparency).
    - **Effects Computation**: Special effects such as reflections, refractions, and ambient occlusion are computed as per scene requirements.
    - **Post-Processing**: Final image adjustments like color correction, depth of field, and motion blur are applied if specified.
 
-5. **Frame Output**:
+5. **[Frame Output](/Studio-in-the-Cloud/**Frame Output)**:
    - **Image Composition**: Once all pixels are processed, the node compiles them into a final rendered frame or tile.
    - **Output Format**: The rendered output is formatted according to the specified file format (e.g., PNG, JPEG, EXR).
 
-6. **Result Submission**:
+6. **[Result Submission](/Studio-in-the-Cloud/**Result Submission)**:
    - **Task Completion**: The node marks the rendering task as completed.
    - **Result Upload**: The rendered frame or tile is uploaded to the shared storage or directly sent to the render farm management software.
 
-7. **Cleanup and Resource Management**:
+7. **[Cleanup and Resource Management](/Studio-in-the-Cloud/Cleanup and Resource Management)**:
    - **Memory Release**: Temporary data and buffers used for rendering are released from memory.
    - **Resource Cleanup**: GPU resources (if applicable) are freed up, and any cached data is cleared to prepare for the next task.
 
