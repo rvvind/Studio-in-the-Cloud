@@ -7,7 +7,7 @@ Distributed rendering involves splitting a rendering task into smaller parts and
 A render farm is a collection of high-performance computers (often referred to as nodes) networked together to form a single powerful rendering unit. Each node in the farm contributes its processing power to the rendering tasks.
 
 ### How It Works:
-1. **Job Submission**: The user submits a rendering job to the render farm through a rendering software or a farm management system.
+1. **[Job Submission](/Studio-in-the-Cloud/Job Submission)**: The user submits a rendering job to the render farm through a rendering software or a farm management system.
 2. **[Job Distribution](/Studio-in-the-Cloud/Job Distribution)**: The farm management software breaks down the rendering job into smaller tasks and distributes these tasks to available nodes in the farm.
 3. **[Rendering](/Studio-in-the-Cloud/Rendering on Nodes)**: Each node processes its assigned task. These tasks can be individual frames in an animation, sections of a single image, or elements of a simulation.
 4. **[Aggregation](/Studio-in-the-Cloud/Aggregation Process)**: Once all nodes complete their tasks, the results are collected and combined to form the final output.
