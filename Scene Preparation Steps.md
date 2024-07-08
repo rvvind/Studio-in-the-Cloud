@@ -1,8 +1,4 @@
 ```mermaid
-  info
-```
-
-```mermaid
 graph TD;
     A[Start: 3D Scene Preparation] --> B[Asset Organization];
     B --> B1[File Structure];
