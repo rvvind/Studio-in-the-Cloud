@@ -35,7 +35,7 @@ Achieve principles of Movielabs 2030 vision
 * High availability and high fidelity environments with durable storage that are globally replicated
 
 ### Deep Dive
-1. [[/Studio-in-the-Cloud/Distributed Rendering|Render Farm]]
+1. [Render Farm](/Studio-in-the-Cloud/Distributed Rendering)
 2. [[Example Setup Workflow|Example Workflow]]
 
 ### Services involved
