@@ -12,40 +12,7 @@ A render farm is a collection of high-performance computers (often referred to a
 3. **[Rendering](/Studio-in-the-Cloud/Rendering on Nodes)**: Each node processes its assigned task. These tasks can be individual frames in an animation, sections of a single image, or elements of a simulation.
 4. **[Aggregation](/Studio-in-the-Cloud/Aggregation Process)**: Once all nodes complete their tasks, the results are collected and combined to form the final output.
 
-```mermaid
-sequenceDiagram
-    participant U as User
-    participant RM as Render Manager
-    participant JS as Job Scheduler
-    participant LB as Load Balancer
-    participant RN as Render Nodes
-    participant FC as Frame Collector
-    participant SS as Storage Server
-    participant QC as Quality Control
-    participant AS as Asset Server
-
-    U->>RM: Submit 3D project
-    RM->>JS: Initialize rendering task
-    JS->>LB: Create job queue
-    loop Job Distribution
-        LB->>RN: Assign render jobs
-        RN->>AS: Request assets
-        AS->>RN: Provide assets
-        RN->>RN: Render frames
-        RN->>FC: Submit completed frames
-        FC->>SS: Store rendered frames
-    end
-    FC->>QC: Submit for review
-    QC->>QC: Review renders
-    alt Renders Approved
-        QC->>SS: Mark as final
-        SS->>U: Notify completion
-    else Revisions Needed
-        QC->>RM: Request revisions
-        RM->>JS: Reinitialize task
-    end
-    U->>SS: Retrieve final composition
-```
+![Render-Workflow](/Studio-in-the-Cloud/render-workflow.png)
 
 
 ### Benefits:
