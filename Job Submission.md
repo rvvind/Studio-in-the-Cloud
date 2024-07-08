@@ -1,4 +1,4 @@
-Sure, let's break down the job submission process in detail. Job submission is the initial step where users provide all the necessary data and instructions for the render farm to begin processing. This process involves several sub-steps to ensure that the job is correctly configured and ready for distribution.
+Job submission is the initial step where users provide all the necessary data and instructions for the render farm to begin processing. This process involves several sub-steps to ensure that the job is correctly configured and ready for distribution.
 
 ### Job Submission Breakdown
 
@@ -132,5 +132,3 @@ Here’s a flow diagram representation of the job submission process:
            v
        [End of Submission Process]
 ```
-
-This breakdown ensures that the job submission process is thorough, and all necessary information and configurations are in place before the rendering begins.
