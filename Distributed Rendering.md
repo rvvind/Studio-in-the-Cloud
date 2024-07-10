@@ -12,6 +12,8 @@ A render farm is a collection of high-performance computers (often referred to a
 3. **[Rendering](/Studio-in-the-Cloud/Rendering on Nodes)**: Each node processes its assigned task. These tasks can be individual frames in an animation, sections of a single image, or elements of a simulation.
 4. **[Aggregation](/Studio-in-the-Cloud/Aggregation Process)**: Once all nodes complete their tasks, the results are collected and combined to form the final output.
 
+### [Render Farm Architecture](/Studio-in-the-Cloud/Render farm architecture)
+
 ![Render-Workflow](/Studio-in-the-Cloud/render-workflow.png)
 
 
