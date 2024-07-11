@@ -1,4 +1,4 @@
-Building an enterprise-level render farm using Oracle Cloud Infrastructure (OCI) for Hollywood studios and game studios involves a comprehensive architecture that supports high performance, scalability, and seamless integration with various professional tools. Here's an outline of the architecture, required services, APIs, and integration options:
+Building an enterprise-level render farm using Oracle Cloud Infrastructure (OCI) for Hollywood studios and game studios involves a comprehensive architecture that supports high performance, scalability, and seamless integration with various professional tools. 
 
 ### Architecture Outline
 
