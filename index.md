@@ -1,5 +1,5 @@
 ## Mission
-Delight the digital media production industry with an intuitive, collaborative and reliable experience to bring their imaginations to reality. 
+Delight the digital media production industry with an intuitive, collaborative and reliable experience building on the Cloud, to bring their imaginations to reality. 
 
 ## Vision
 Deliver best-in-class cloud services that make it easy for digital media customers to produce and securely manage content using the tools of their choice at a location of their convenience.
