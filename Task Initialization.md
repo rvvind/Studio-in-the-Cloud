@@ -1,4 +1,4 @@
-This process involves preparing the render nodes to start processing the assigned tasks. It ensures that all necessary data and configurations are in place before rendering begins. Here's a detailed breakdown:
+This process involves preparing the render nodes to start processing the assigned tasks. It ensures that all necessary data and configurations are in place before rendering begins. 
 
 ### Task Initialization Breakdown
 
