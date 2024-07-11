@@ -1,4 +1,4 @@
-Task generation process, is a critical step in preparing rendering jobs for distribution to render nodes. Task generation involves creating discrete rendering tasks that can be independently processed by different nodes in the render farm. Here's a detailed breakdown of this process:
+Task generation process, is a critical step in preparing rendering jobs for distribution to render nodes. Task generation involves creating discrete rendering tasks that can be independently processed by different nodes in the render farm. 
 
 ### Task Generation Process
 
