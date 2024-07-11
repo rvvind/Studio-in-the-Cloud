@@ -1,4 +1,4 @@
-This process ensures that the system is properly reset and resources are efficiently managed to prepare for future tasks. Here's a step-by-step breakdown:
+This process ensures that the system is properly reset and resources are efficiently managed to prepare for future tasks. 
 
 ### Cleanup and Resource Management Breakdown
 
