@@ -2,7 +2,7 @@
 Delight the digital media production industry with an intuitive, collaborative and reliable experience building on the Cloud, to bring their imaginations to reality. 
 
 ## Vision
-Deliver best-in-class cloud services that make it easy for digital media customers to produce and securely manage content using the tools of their choice at a location of their convenience.
+Deliver best-in-class Cloud services that make it easy for digital media customers to produce and securely manage content using the tools of their choice at a location of their convenience.
 
 ## What are we building?
 We are building a suite of cloud services on Oracle loud Infrastructure (OCI) that will enable animation, film and game development studios to migrate their entire production pipeline to the cloud. We will deliver virtual animation workstation service, digital asset management, high performance storage, render farm as a service, license management and production pipeline management services, designed to meet the needs of movie studios and game developers world-wide. With seamless integration of industry-leading tools and a comprehensive data governance strategy, Oracle Studio in the Cloud ensures exceptional efficiency and reliability for creative professionals.
