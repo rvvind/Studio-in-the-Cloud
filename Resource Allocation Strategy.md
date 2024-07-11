@@ -1,4 +1,4 @@
-Using Oracle Cloud Compute instances for a render farm involves leveraging Oracle's scalable cloud infrastructure to allocate and manage computational resources effectively. Here's a detailed resource allocation strategy:
+Using Oracle Cloud Compute instances for a render farm involves leveraging Oracle's scalable cloud infrastructure to allocate and manage computational resources effectively. 
 
 ### Resource Allocation Strategy
 
