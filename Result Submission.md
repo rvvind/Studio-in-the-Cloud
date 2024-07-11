@@ -1,4 +1,4 @@
-This process involves ensuring that the rendered frames or images are correctly submitted to the designated storage locations and made available for further use. Here's how it works step by step:
+This process involves ensuring that the rendered frames or images are correctly submitted to the designated storage locations and made available for further use. 
 
 ### Result Submission Breakdown
 
