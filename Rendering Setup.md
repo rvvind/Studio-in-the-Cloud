@@ -1,4 +1,4 @@
-This step prepares the node for the actual rendering process by configuring various settings and ensuring that all necessary data is in place. Here's a detailed breakdown of the rendering setup:
+This step prepares the node for the actual rendering process by configuring various settings and ensuring that all necessary data is in place. 
 
 ### Rendering Setup Breakdown
 
