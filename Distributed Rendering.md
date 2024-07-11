@@ -1,4 +1,4 @@
-Distributed rendering using render farms is a technique used in computer graphics to speed up the process of rendering images, animations, or simulations. Here’s a breakdown of how it works:
+Distributed rendering using render farms is a technique used in computer graphics to speed up the process of rendering images, animations, or simulations. 
 
 ### What is Distributed Rendering?
 Distributed rendering involves splitting a rendering task into smaller parts and distributing these parts across multiple computers (nodes) to work on them simultaneously. This parallel processing significantly reduces the time required to complete the rendering.
