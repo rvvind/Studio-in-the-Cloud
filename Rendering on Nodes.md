@@ -1,4 +1,4 @@
-The rendering process within a compute node in a render farm involves several steps that transform scene data into rendered output. Each node independently processes assigned tasks, utilizing its computational resources efficiently. Here's a detailed breakdown of the rendering process within a node:
+The rendering process within a compute node in a render farm involves several steps that transform scene data into rendered output. Each node independently processes assigned tasks, utilizing its computational resources efficiently. 
 
 ### Rendering Process Within a Node
 
