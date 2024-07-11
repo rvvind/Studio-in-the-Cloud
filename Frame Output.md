@@ -1,4 +1,4 @@
-This process involves finalizing the rendered frame, applying any necessary post-processing, and saving the output to the specified location. Here's how it works step by step:
+This process involves finalizing the rendered frame, applying any necessary post-processing, and saving the output to the specified location. 
 
 ### Frame Output Breakdown
 
