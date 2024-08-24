@@ -132,3 +132,14 @@ If too many CDN requests are directed to the origin server, it can become overlo
 ### Conclusion
 
 Live video vending is a complex but crucial part of live streaming. From **origin servers** to **CDN balancing** and **QoE monitoring**, each component plays a vital role in ensuring that live video streams are delivered efficiently and at high quality. By monitoring **origin health**, using **Origin Shield** to offload traffic, and balancing traffic across multiple CDNs, broadcasters can deliver scalable, reliable, and high-quality live streams to audiences worldwide.
+
+---
+
+### 5. Further Reading
+Dive deep into the concepts
+
+- [Live Encoding](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Encoding)
+- [Live Manifests](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Manifests)
+- [Live Media Transport](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Media%20Transport)
+- [Live Streaming](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Streaming)
+- [Live Video Vending](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Video%20Vending)
