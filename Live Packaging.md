@@ -140,3 +140,14 @@ Here’s a list of some industry-leading products and services used in live pack
 1. **Wowza Streaming Engine**: A robust on-premises solution for live streaming and packaging in formats like HLS, DASH, and RTMP.
 2. **Elemental Live**: A professional live encoding and packaging solution, available as both software and hardware, supporting HLS, DASH, and CMAF with DRM integration.
 3. **Zixi**: Provides on-premises solutions for live video packaging and streaming with a focus on low-latency, high-quality distribution.
+
+---
+
+### 7. Further Reading
+Dive deeper into the concepts
+
+- [Live Manifests](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Manifests)
+- [Live Media Transport](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Media%20Transport)
+- [Live Streaming](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Streaming)
+- [Live Video Vending](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Video%20Vending)
+- [Live Encoding](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Encoding)
