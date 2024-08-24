@@ -182,3 +182,14 @@ Several products and platforms are available to facilitate live manifest generat
 ### Conclusion
 
 Live manifest generation and vending are critical components of modern live streaming workflows, enabling seamless adaptive bitrate streaming and playback on various devices. By dynamically updating manifests and handling ABR streams efficiently, these processes ensure that viewers can experience smooth and high-quality streams regardless of their device or network conditions. Whether using cloud-based services like AWS Elemental or on-premises solutions like Wowza, mastering manifest generation and vending is essential for delivering reliable, scalable live streaming experiences.
+
+---
+
+### 7. Further Reading
+Dive deep into the concepts
+
+- [Live Encoding](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Encoding)
+- [Live Manifests](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Manifests)
+- [Live Media Transport](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Media%20Transport)
+- [Live Streaming](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Streaming)
+- [Live Video Vending](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Video%20Vending)
