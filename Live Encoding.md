@@ -121,4 +121,15 @@ Here’s a list of some industry-leading products used in live encoding, categor
 #### **Hardware Encoders**:
 1. **Teradek VidiU Go**: A portable live encoder with support for multiple cellular connections (for streaming from remote locations).
 2. **AJA HELO**: Professional-grade, standalone hardware encoder that supports H.264 streaming and recording simultaneously.
-3. **Blackmagic Design ATEM Mini Pro**: A hybrid hardware encoder and switcher,
+3. **Blackmagic Design ATEM Mini Pro**: A hybrid hardware encoder and switcher
+
+---
+
+### 7. Further Reading
+Dive deep into the concepts
+
+- [Live Encoding](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Encoding)
+- [Live Manifests](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Manifests)
+- [Live Media Transport](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Media%20Transport)
+- [Live Streaming](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Streaming)
+- [Live Video Vending](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Video%20Vending)
