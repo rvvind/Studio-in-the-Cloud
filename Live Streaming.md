@@ -6,11 +6,11 @@ Live streaming refers to the process of transmitting live video and audio over t
 ### 2. How It Works: Components and Sequence
 Live streaming involves a series of steps and components that allow the capture, encoding, and distribution of content. Here's an outline of the main components:
 
-- **Video/Audio Capture**: The content starts by capturing video and audio from cameras, microphones, or devices like smartphones or professional equipment.
+- [**Video/Audio Capture**](https://rvvind.github.io/Studio-in-the-Cloud/Video%20&amp;%20Audio%20Capture): The content starts by capturing video and audio from cameras, microphones, or devices like smartphones or professional equipment.
   
-- **Encoder**: The captured video/audio must be encoded (compressed) into a digital format suitable for streaming. Encoders can be hardware or software-based. Common formats include H.264, HEVC, AAC, and MP3 for audio.
+- [**Encoder**](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Encoding): The captured video/audio must be encoded (compressed) into a digital format suitable for streaming. Encoders can be hardware or software-based. Common formats include H.264, HEVC, AAC, and MP3 for audio.
 
-- **Streaming Server (Media Server)**: Once encoded, the stream is sent to a streaming server that processes it and distributes it to multiple viewers. The server breaks the stream into small segments for smoother transmission.
+- [**Streaming Server (Media Server)**](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Packaging): Once encoded, the stream is sent to a streaming server that processes it and distributes it to multiple viewers. The server breaks the stream into small segments for smoother transmission.
 
 - **Content Delivery Network (CDN)**: A CDN distributes the stream to various edge servers located close to the viewers to reduce latency and buffering. Platforms use CDNs like Akamai, Cloudflare, or AWS CloudFront to deliver content efficiently.
 
@@ -50,4 +50,9 @@ While live streaming has grown rapidly, there are several challenges associated 
 ### 5. Further Reading
 Dive deeper into the concepts
 
-- [Live Video Vending](https://github.com/rvvind/Studio-in-the-Cloud/edit/main/Live%20Video%20Vending.md)
+- [Live Video Vending](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Video%20Vending)
+- [Live Encoding](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Encoding)
+- [Live Packaging](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Packaging)
+- [Live Manifests](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Manifests)
+- [Live Media Transport](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Media%20Transport)
+- [Live Streaming](https://rvvind.github.io/Studio-in-the-Cloud/Live%20Streaming)
