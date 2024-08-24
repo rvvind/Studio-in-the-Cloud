@@ -46,3 +46,8 @@ While live streaming has grown rapidly, there are several challenges associated 
 - **Device Compatibility**: Ensuring that streams are viewable on all devices (phones, desktops, smart TVs) requires adaptive bitrate streaming and different formats.
 - **Security**: Protecting streams from piracy or unauthorized access is a challenge. Techniques like encryption and DRM (Digital Rights Management) help mitigate this.
 - **Content Moderation**: Live content is unpredictable, which makes moderating inappropriate content difficult, especially on platforms with user-generated content.
+
+### 5. Further Reading
+Dive deeper into the concepts
+
+- [Live Video Vending](https://github.com/rvvind/Studio-in-the-Cloud/edit/main/Live%20Video%20Vending.md)
